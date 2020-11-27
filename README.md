@@ -13,7 +13,7 @@ You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/vashanth-s
+[1]: https://www.linkedin.com/in/vashanth-s/
 <!--
 **Vashanth/Vashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
