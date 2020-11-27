@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashanth&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vashanth&theme=merko" />
 
 <!--
 **Vashanth/Vashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
