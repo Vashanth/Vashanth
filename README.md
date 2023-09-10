@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashanth&theme=dark&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vashanth&theme=merko" />
-
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.1]][1].
